@@ -1,10 +1,4 @@
-
-# coding: utf-8
-
-# #### Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included). The numbers obtained should be printed in a comma-separated sequence on a single line.
-
-# In[24]:
-
+#### Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included). The numbers obtained should be printed in a comma-separated sequence on a single line.
 
 # @result variable should be blank, because if we run multiple time it will append and print the string.
 result = ''
