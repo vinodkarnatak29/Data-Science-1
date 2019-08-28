@@ -1,4 +1,4 @@
-# DataScienceSession1Assignment1
+# Data Science -1
 1. Install Jupyter notebook and run the first program and share the screenshot of the output.
 2. Program which will find all such numbers which are divisible by 7 but are not a
 multiple of 5, between 2000 and 3200 (both included). The numbers obtained should be printed
